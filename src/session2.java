@@ -1,0 +1,2 @@
+public class session2 {
+}
